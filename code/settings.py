@@ -4,7 +4,7 @@ from os.path import join
 
 
 CELL_SIZE = 80
-ROWS = 10
+ROWS = 9
 COLS = 16
 WINDOW_WIDTH = COLS * CELL_SIZE
 WINDOW_HEIGHT = ROWS * CELL_SIZE
